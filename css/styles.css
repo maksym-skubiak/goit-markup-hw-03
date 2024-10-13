@@ -39,7 +39,6 @@ ul {
 .top-navigation {
   display: flex;
   align-items: center;
-  padding: 24px 0 24px;
 }
 
 .top-container {
@@ -77,6 +76,7 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
+  padding: 24px 0 24px;
 }
 
 .top-list-link:hover,
