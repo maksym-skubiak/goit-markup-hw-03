@@ -64,10 +64,10 @@ ul {
 .top-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .top-list-item {
+  padding: 24px 0 24px;
 }
 
 .top-list-link {
