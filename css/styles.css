@@ -211,7 +211,6 @@ ul {
   text-transform: capitalize;
   margin: 0 auto;
   margin-bottom: 72px;
-  max-width: 162px;
 }
 
 .team-list {
@@ -259,7 +258,6 @@ ul {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  max-width: 218px;
   margin: 0 auto;
   margin-bottom: 72px;
 }
