@@ -43,7 +43,7 @@ ul {
 
 .top-container {
   display: flex;
-  padding: 24px 0;
+  padding: 0 15px;
 }
 
 .top-logo {
@@ -67,7 +67,7 @@ ul {
 }
 
 .top-list-item {
-  padding: 0 15px 0 15px;
+  padding: 24px 0;
 }
 
 .top-list-link {
