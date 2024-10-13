@@ -34,6 +34,7 @@ ul {
 /* --------------------header------------------------ */
 .top {
   border-bottom: 1px solid #e7e9fc;
+  padding: 24px 0 24px;
 }
 
 .top-navigation {
@@ -64,6 +65,7 @@ ul {
 .top-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0 24px;
 }
 
 .top-list-item {
